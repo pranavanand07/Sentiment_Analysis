@@ -6,5 +6,6 @@ SVC
 Random Forest Classifier
 Bernoulli NB
 K-Nearest Neighbor Classifier
-##Topics and Contents
+
+## Topics and Contents
 This repository contains my projects on Sentiment Analysis from customer reviews.
